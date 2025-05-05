@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mumunha-mcp-evolution-whatsapp-api-badge.png)](https://mseep.ai/app/mumunha-mcp-evolution-whatsapp-api)
+
 # MCP Evolution API
 
 A Model Context Protocol (MCP) server for Claude that integrates with [Evolution API](https://doc.evolution-api.com/) for WhatsApp automation.
